@@ -2,6 +2,7 @@
   <div>
     <home-header></home-header>
     <home-swiper></home-swiper>
+    <div>更改了</div>
   </div>
 </template>
 
